@@ -1,0 +1,1 @@
+i@group_evenNumbers = @ptnum%2;
